@@ -2,7 +2,7 @@
 Django real estate website project
 
 
-Deployment Instructions From Brad Traversy.
+# Deployment Instructions From Brad Traversy.
 
 # Django Deployment to Ubuntu 18.04
 
